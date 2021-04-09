@@ -1,4 +1,4 @@
-# mstoreapp
+# MStore App
 
 A new Flutter project.
 
